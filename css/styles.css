@@ -1,0 +1,205 @@
+body{
+    margin: 0;
+    font-family: 'Chivo Mono', monospace;
+    text-align: center;
+    color: #541212;
+    background-color: #FFF6EA;
+    line-height: 3;
+}
+
+
+.dev-image{
+    width: 72px;
+    height: 72px;
+    position: absolute;
+    left: 200px;
+    top: 30px;
+}
+
+.header-a-tag{
+    margin-left: 50px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    right: 200px;
+    top: 40px;
+
+}
+.header-a:hover{
+    color: white;
+}
+
+.container-1{
+    text-align: center;
+    background-color:#FFEEEE;
+    position: relative;
+}
+
+.container-2{
+    background-color: #FFF6EA;
+}
+
+.container-3{
+    margin: 80px  auto;
+    background-color:#FFF6EA;
+}
+
+.skills{
+    background-color: #FFF6EA;   
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align:left;
+    line-height:2 ;    
+}
+
+.skill-image-1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-image-2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;  
+}
+
+.skill-description{
+ 
+    width: 90%;
+    margin: auto;
+
+}
+.skill-heading-css{
+    position: relative ;
+    left: 31px;
+}
+
+
+.footer{
+    background-color:#FFEEEE ;
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+}
+
+.name{
+    font-family: 'Chivo Mono', monospace;
+    font-size: 4.5rem;
+    padding-top: 230px;
+    margin-top: 0;
+   
+    color:black;
+}
+
+.designation{
+    font-size:2.5rem;
+    font-family: 'IBM Plex Mono', monospace;
+    color: #541212;
+    margin: 20px auto 20px auto;
+}
+
+
+.large-dev-icon{
+    padding-top: 50px;
+    width:20%;
+    position: relative;
+    top: 20px;
+}
+
+.anchor-1{
+    position: absolute;
+    right: 30px;
+    top:30px;
+}
+
+.profile-icon{
+    height: 200px;
+    width: 200px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+h2{
+    color: black;
+    font-size: 3.8rem;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+h3{
+    color: black;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.get-in-touch-p{
+    width: 50%;
+    margin:auto;
+   
+}
+
+.get-in-touch-h2{
+    margin: 0 auto 0 auto;
+
+}
+
+.bio{
+   line-height: 3;
+   width: 50%;
+   margin: auto;
+   font-family: 'IBM Plex Mono', monospace;
+}
+
+hr{
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: black;
+    margin: 100px auto;
+}
+
+.btn {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: black;
+    font-size: 20px;
+    background: #EF9F9F;
+    padding: 10px 20px 10px 20px;
+    border: solid #00060a 2px;
+    text-decoration: none;
+    position: relative;
+    top:30px;
+  }
+  
+  .btn:hover {
+    background: #FAD4D4;
+    text-decoration: none;
+  }
+
+  .footer-link{
+
+    margin-left: 40px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    bottom: 8px;
+    right: 27px;
+  }
+
+  .footer-link:hover{
+    color:grey;
+   
+
+  }
+  .copy-right{
+    font-size: .7rem;
+    position:relative;
+    top: 20px;
+    margin: auto;
+  }
+ 
